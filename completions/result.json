@@ -1,0 +1,53 @@
+[
+  {
+    "image": "http://localhost:8080/data/upload/c2f1d4f67436a06977fd2b29b3b7d579-SEI95164_VADA26579_LPDiorShowesthe_RPDiorShowesthe_Zcpdroit_T01.jpg",
+    "tag": [
+      {
+        "ellipselabels": [
+          "Iris"
+        ],
+        "radiusX": 9.466666666666667,
+        "radiusY": 10.261569416498993,
+        "rotation": 0,
+        "x": 49.86666666666667,
+        "y": 49.29577464788732,
+        "original_width": 4928,
+        "original_height": 3264
+      }
+    ]
+  },
+  {
+    "image": "http://localhost:8080/data/upload/de412ef080a5ffd84d007a49010b18b6-SEI95164_VADA26579_LPDiorShowesthe_RPDiorShowesthe_Zcpdroit_T00.jpeg",
+    "tag": [
+      {
+        "ellipselabels": [
+          "Iris"
+        ],
+        "radiusX": 9.6,
+        "radiusY": 11.87122736418511,
+        "rotation": 0,
+        "x": 50.4,
+        "y": 48.2897384305835,
+        "original_width": 4928,
+        "original_height": 3264
+      }
+    ]
+  },
+  {
+    "image": "http://localhost:8080/data/upload/0e5c274bc25cdffa53bb0c446b68c77d-SEI95164_VADA26579_LPDiorShowesth_RPDiorShowesthe_Zcpdroit_T00.jpeg",
+    "tag": [
+      {
+        "ellipselabels": [
+          "Iris"
+        ],
+        "radiusX": 10,
+        "radiusY": 11.87122736418511,
+        "rotation": 0,
+        "x": 49.86666666666667,
+        "y": 50.30181086519115,
+        "original_width": 4928,
+        "original_height": 3264
+      }
+    ]
+  }
+]
